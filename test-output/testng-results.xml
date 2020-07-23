@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125562" started-at="2019-11-18T12:00:58 IST" finished-at="2019-11-18T12:03:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125562" started-at="2019-11-18T12:00:58 IST" finished-at="2019-11-18T12:03:04 IST">
+      <class name="mes.testcase.verifymesLogin">
+        <test-method status="PASS" signature="verifyValidlogin()[pri:0, instance:mes.testcase.verifymesLogin@3dfc5fb8]" name="verifyValidlogin" duration-ms="125518" started-at="2019-11-18T12:00:58 IST" finished-at="2019-11-18T12:03:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidlogin -->
+      </class> <!-- mes.testcase.verifymesLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
